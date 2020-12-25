@@ -1,3 +1,4 @@
+stash check
 test 2
 second update in b1
 in branch b1
